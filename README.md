@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.png"  max-width="300">
+  <img src="assets/banneravanza.png"  max-width="300">
 </p>
 
 # Idiomas Avanza - Escuela Digital de Idiomas
@@ -389,5 +389,5 @@ php backend/scripts/migrate.php
 </div>
     
 <p align="center">
-  <img src="assets/Logo.png">
+  <img src="assets/LogoSinFondo.png">
 </p>
