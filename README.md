@@ -1,4 +1,4 @@
-# EduLingua - Escuela Digital de Idiomas
+# Idiomas Avanza - Escuela Digital de Idiomas
 
 Una aplicación web completa para una escuela digital especializada en inglés, francés y portugués, con grupos conversacionales, preparación para certificaciones internacionales y biblioteca digital.
 
@@ -364,11 +364,8 @@ php backend/scripts/migrate.php
 
 ## 📄 Licencia
 
-Copyright © 2025 EduLingua. Todos los derechos reservados.
 
-**Versión:** 1.0.0  
+**Versión:** 0.2.0  
 **Fecha:** Agosto 2025  
-**Estado:** Producción Ready
+**Estado:** Lista para Despliegue
 
-# Avanza
-# Avanza
