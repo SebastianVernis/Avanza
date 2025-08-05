@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="assets/Banner.png"  max-width="300">
+</p>
+
 # Idiomas Avanza - Escuela Digital de Idiomas
+
+![Status](https://img.shields.io/badge/Status-Rebuilding-orange)
+![Version](https://img.shields.io/badge/Version-0.2.0-blue)
+![Tech](https://img.shields.io/badge/Tech-JS%20%7C%20PHP%20%7C%20MySQL-yellow)
+![Ownership](https://img.shields.io/badge/Ownership-Agency%20%2B%20Partners-lightgrey)
 
 Una aplicación web completa para una escuela digital especializada en inglés, francés y portugués, con grupos conversacionales, preparación para certificaciones internacionales y biblioteca digital.
 
@@ -369,3 +378,16 @@ php backend/scripts/migrate.php
 **Fecha:** Agosto 2025  
 **Estado:** Lista para Despliegue
 
+<div align= "center">
+  <a text= "font-segoeui align-center strong">🔥 Desarrollado por Sebastian Vernis | Soluciones Digitales</a>
+</div>
+<div align= "center">
+  <a href="https://sebastianvernis.com">Sebastian Vernis 🧑🏻‍💻 </a>
+</div>
+<div align= "center">
+  <a href="https://chispart.mx">Chispart 🎨 </a>
+</div>
+    
+<p align="center">
+  <img src="assets/Logo.png">
+</p>
