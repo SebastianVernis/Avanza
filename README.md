@@ -389,5 +389,5 @@ php backend/scripts/migrate.php
 </div>
     
 <p align="center">
-  <img src="assets/LogoSinFondo.png">
+  <img src="assets/LOGO2.png">
 </p>
