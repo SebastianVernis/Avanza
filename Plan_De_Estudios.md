@@ -1,6 +1,6 @@
 # 📘 Idiomas Avanza – Programa Académico Multilingüe
 
-![Logo](./assets/png/LOGO2.png)
+![Logo](./assets/LOGO2.png)
 
 ### 🌍 Plan de Estudios Completo – Inglés, Francés y Portugués  
 *Niveles A1 a B2*
